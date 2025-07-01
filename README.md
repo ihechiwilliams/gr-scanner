@@ -44,3 +44,8 @@ Scan a repository for files larger than 1MB:
   ]
 }
 ```
+
+### Running with Docker
+```bash
+docker run --env-file .env gr-scanner scan '{"clone_url":"https://github.com/owner/repo.git","size":1.0}'
+```
