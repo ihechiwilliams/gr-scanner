@@ -6,7 +6,7 @@
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/gr-scanner.git
+   git clone https://github.com/ihechiwilliams/gr-scanner.git
    cd gr-scanner
    ```
 2. **Set Up Environment Variables**:
